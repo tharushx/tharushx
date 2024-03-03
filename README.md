@@ -2,7 +2,7 @@
   <img src="https://github.com/tharushx/tharushx/blob/main/assets/header.gif" alt="Header GIF" width="800" height="400">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Tharush X</h1>
+<h1 align="center">Hi there! 👋 I'm Tharusha Adithya</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding, building cool projects, and contributing to the open-source community.
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Machine Learning</strong>.
+  🌱 I’m currently learning <strong>Java</strong>.
 </p>
 
 <h2 align="center">Projects 🚀</h2>
@@ -62,11 +62,15 @@
 <h2 align="center">Let's Connect! 🤝</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharushx">LinkedIn</a> | 
+  <a href="[https://www.linkedin.com/in/tharushx](https://www.linkedin.com/in/tharusha-adithya-a7842a2b8/)">LinkedIn</a> | 
   <a href="https://twitter.com/tharushx">Twitter</a> | 
   <a href="https://tharushx.com">Website</a>
 </p>
 
 <p align="center">
   Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+</p>
+
+<p align="center">
+  <img src="https://github.com/tharushx/tharushx/blob/main/assets/footer.gif" alt="Footer GIF" width="800" height="100">
 </p>
