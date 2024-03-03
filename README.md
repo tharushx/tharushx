@@ -62,7 +62,7 @@
 <h2 align="center">Let's Connect! 🤝</h2>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tharushx](https://www.linkedin.com/in/tharusha-adithya-a7842a2b8/)">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/tharusha-adithya-a7842a2b8/">LinkedIn</a> | 
   <a href="https://twitter.com/tharushx">Twitter</a> | 
   <a href="https://tharushx.com">Website</a>
 </p>
