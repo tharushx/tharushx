@@ -11,60 +11,42 @@
 <h2 align="center">About Me ℹ️</h2>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong> based in <strong>Sri Lanka</strong>. I specialize in <strong>Web Development</strong> and <strong>Data Science</strong>, and I'm always eager to learn and explore new technologies.
+  I'm a <strong>Software Engineer</strong> Student. I specialize in <strong>Web Development</strong> and <strong>Data Science</strong>, and I'm always eager to learn and explore new technologies.
 </p>
 
 <p align="center">
   🌱 I’m currently learning <strong>Java</strong>.
 </p>
 
-<h2 align="center">Projects 🚀</h2>
-
-<p align="center">
-  Here are some of the projects I'm proud of:
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tharushx/project-1">
-        <img src="https://github.com/tharushx/tharushx/blob/main/assets/project1.png" alt="Project 1" width="300" height="200">
-      </a>
-      <br>
-      <strong>Project 1: Awesome Web App</strong>
-      <br>
-      Description: A web application for XYZ.
-      <br>
-      <a href="https://github.com/tharushx/project-1">Repository</a> | <a href="https://example.com">Demo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tharushx/project-2">
-        <img src="https://github.com/tharushx/tharushx/blob/main/assets/project2.png" alt="Project 2" width="300" height="200">
-      </a>
-      <br>
-      <strong>Project 2: Amazing Mobile App</strong>
-      <br>
-      Description: A mobile application for ABC.
-      <br>
-      <a href="https://github.com/tharushx/project-2">Repository</a> | <a href="https://example.com">Demo</a>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">Skills 💻</h2>
 
 <p align="center">
-  <strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python<br>
-  <strong>Technologies & Tools:</strong> React, Node.js, TensorFlow, Git<br>
-  <strong>Other Skills:</strong> Problem Solving, Teamwork, Communication
+  <strong>Programming Languages:</strong> HTML, CSS, JavaScript, Php<br>
+  <strong>Technologies & Tools:</strong> React, React-native, Node.js, Git<br>
+  
+  <strong align="center">Other Skills:</strong> Problem Solving, Teamwork, Communication
 </p>
 
-<h2 align="center">Let's Connect! 🤝</h2>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharusha-adithya-a7842a2b8/">LinkedIn</a> | 
-  <a href="https://twitter.com/tharushx">Twitter</a> | 
-  <a href="https://tharushx.com">Website</a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="#">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+
 </p>
 
 <p align="center">
