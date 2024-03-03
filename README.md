@@ -24,8 +24,7 @@
 <p align="center">
   <strong>Programming Languages:</strong> HTML, CSS, JavaScript, Php<br>
   <strong>Technologies & Tools:</strong> React, React-native, Node.js, Git<br>
-  
-  <strong align="center">Other Skills:</strong> Problem Solving, Teamwork, Communication
+  <strong>Other Skills:</strong> Problem Solving, Teamwork, Communication
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
