@@ -80,11 +80,6 @@ const tharusha = {
   <img src="https://skillicons.dev/icons?i=flutter,reactnative,androidstudio,kotlin&theme=dark" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,netlify,github&theme=dark" />
-</p>
-
 ### 🎨 Design & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,git,postman,linux&theme=dark" />
@@ -204,18 +199,6 @@ const tharusha = {
 </div>
 
 ---
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  
-  <!-- Spotify integration - replace with your username -->
-  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=1&unique=true)](https://open.spotify.com/user/your_spotify_username)
-  
-</div>
-
----
-
 ## 🎮 Interactive Games & Fun Zone
 
 <div align="center">
