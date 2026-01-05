@@ -117,13 +117,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharushx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=2F81F7" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE787" height="160" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="www.linkedin.com/in/tharusha-adithya" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
