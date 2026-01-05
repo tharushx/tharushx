@@ -1,30 +1,132 @@
-# 🚀 Tharusha Adithya
-
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+I'm+Tharusha;Full-Stack+Engineer+%F0%9F%92%BB;Architecting+Scalable+Products+%F0%9F%9A%80;Java+Spring+Boot+%2B+Next.js+Expert;Founder+of+Clipphy" alt="Typing SVG" />
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharushx/tharushx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tharushx/tharushx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tharushx/tharushx/output/github-contribution-grid-snake.svg">
-  </picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Tharusha%20Adithya&fontSize=60&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Product%20Architect&descAlignY=60&descAlign=50&descSize=22&stroke=30363D&strokeWidth=1" width="100%"/>
 </div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7EE787&center=true&vCenter=true&width=800&lines=Building+Scalable+Backends+with+Spring+Boot;Crafting+Modern+UIs+with+Next.js;Transforming+Logic+into+Software+Solutions;Founder+%26+Lead+Engineer+@+Clipphy" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🎯 About Me
+<br>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <table border="0" width="90%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>⚡ The Engineering Protocol</h3>
+        <p>
+          I am a software engineering undergraduate focused on <b>system stability</b> and <b>product logic</b>. 
+          Rather than just writing code, I engineer solutions that address specific business problems in FinTech and Logistics.
+        </p>
+        <p>
+          Currently, I am leveraging <b>Java (Spring Boot)</b> for robust backend performance and <b>Next.js</b> for seamless frontend experiences. My work is defined by a practical approach: <i>Build it right, or don't build it at all.</i>
+        </p>
+      </td>
+      <td width="40%" valign="center" align="center">
+         <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
-```typescript
-const tharusha = {
-    role: "Full-Stack Engineer",
-    location: "Sri Lanka 🇱🇰",
-    founderOf: ["Clipphy (Global ROSCA Platform)"],
-    techStack: ["Java Spring Boot", "Next.js", "PostgreSQL"],
-    currentFocus: "Architecting Financial & Logistics Solutions",
-    lifePhilosophy: "Turning coffee into scalable code ☕ -> 🚀"
-};
-<div align="center">🌟 Current Activity</div>🚀 Featured Work (Commercial & Private)Since my core work involves proprietary business logic, the codebases are private. However, here is what I am building:ProjectRoleTech StackStatus🛍️ ClipphyFounder & Lead ArchitectNext.js Spring Boot PostgreSQLBuilding MVP (Global ROSCA Model)🚚 Soon YouTechnical LeadReact Node.js Logistics AlgoLive Operations (Delivery System)🎥 TA Media PlayerDeveloperJava JavaFX OOP PatternsCompleted Desktop App🛠️ Tech Arsenal<div align="center">💻 Core Stack<p><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,nextjs,react,ts,js,python%26theme%3Ddark" /></p>🔧 Databases & Tools<p><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres,mysql,firebase,git,github,vscode,postman,docker%26theme%3Ddark" /></p></div><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushx&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&card_width=600" alt="Top Languages" /></div>📊 GitHub Analytics<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharushx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=tharushx&theme=tokyo-night&hide_border=true&border_radius=20" /></div>🌐 Connect With Me<div align="center">Let's build something amazing together! 🚀<p><a href="https://www.linkedin.com/in/tharusha-adithya-a7842a2b8"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26style%3Dflat-square" alt="LinkedIn"/></a><a href="mailto:tharushadithya10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a><a href="https://tharushadithya.netlify.app"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite%26style%3Dflat-square" alt="Portfolio"/></a></p></div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20awesome&descAlignY=51&descAlign=50" width="100%"><sub>💙 Made with love and Java</sub></div>
+<br>
+
+<h3 align="center">🛠️ Technical Ecosystem</h3>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <samp><b>BACKEND CORE</b></samp><br><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" />
+      </td>
+      <td align="center" style="padding: 15px;">
+        <samp><b>FRONTEND UI</b></samp><br><br>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux&theme=dark" />
+      </td>
+      <td align="center" style="padding: 15px;">
+        <samp><b>DATA & DEVOPS</b></samp><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,postman&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h3 align="center">🏗️ Active Developments</h3>
+
+<div align="center">
+  <table border="0">
+    <thead>
+      <tr>
+        <th align="left">Project / Venture</th>
+        <th align="left">My Engineering Role</th>
+        <th align="left">Tech Implementation</th>
+        <th align="center">Dev Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <b>🟣 Clipphy</b><br>
+          <sub>Digital ROSCA Platform</sub>
+        </td>
+        <td>
+          <b>Lead Engineer & Founder</b><br>
+          <sub>Architecting the FIFO algorithm & payment logic.</sub>
+        </td>
+        <td><code>Spring Boot</code> <code>PostgreSQL</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Building_MVP-FFA500?style=flat-square&logo=github&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <b>🚚 Soon You</b><br>
+          <sub>Logistics Infrastructure</sub>
+        </td>
+        <td>
+          <b>Technical Lead</b><br>
+          <sub>Designing the delivery tracking system.</sub>
+        </td>
+        <td><code>Next.js</code> <code>Node.js</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/System_Design-007EC6?style=flat-square&logo=react&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <b>🎥 TA Media</b><br>
+          <sub>Desktop Application</sub>
+        </td>
+        <td>
+          <b>Core Developer</b><br>
+          <sub>Implemented media playback engine.</sub>
+        </td>
+        <td><code>JavaFX</code> <code>OOP</code></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Stable_v1.0-2EA043?style=flat-square&logo=java&logoColor=white" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharushx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=2F81F7" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EE787" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="www.linkedin.com/in/tharusha-adithya" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+  <samp>Exploring the intersection of Logic and Business.</samp>
+</div>
